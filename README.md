@@ -10,7 +10,10 @@
 
 ## 📸 Screenshots
 
-*(Tempatkan screenshot dashboard Anda di sini)*
+<img width="1426" height="959" alt="image" src="https://github.com/user-attachments/assets/fc419297-507d-477d-b69f-d9afbf7a8e2f" />
+
+<img width="1414" height="978" alt="image" src="https://github.com/user-attachments/assets/6ed9be6f-c3e8-476e-8fe9-b159cc118ed6" />
+
 ## ✨ Key Features
 
 ### 🎨 Modern User Interface
