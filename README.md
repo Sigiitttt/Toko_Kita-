@@ -1,4 +1,3 @@
-```markdown
 # Toko Kita - Modern SaaS Inventory System
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -115,7 +114,7 @@ Project ini dilisensikan di bawah [MIT license](https://opensource.org/licenses/
 ---
 
 <p align="center">
-Built with ❤️ by <b>[saya]</b>
+Built with ❤️ by <b>[Nama Anda]</b>
 </p>
 
 ```
