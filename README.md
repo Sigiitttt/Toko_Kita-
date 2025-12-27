@@ -117,17 +117,8 @@ Project ini dilisensikan di bawah [MIT license](https://opensource.org/licenses/
 ---
 
 <p align="center">
-Built with ❤️ by <b>[Nama Anda]</b>
+Built with ❤️ by <b>[sigitt]</b>
 </p>
 
 ```
 
-### 💡 Tips Tambahan agar Makin Keren:
-
-1.  **Ambil Screenshot:** Buka dashboard dan halaman produk Anda, lalu *screenshot* (Print Screen).
-2.  **Simpan Gambar:** Buat folder baru bernama `docs` di dalam folder proyek Anda, lalu simpan gambar tadi di sana (misal: `dashboard.png`).
-3.  **Un-comment:** Di bagian `## 📸 Screenshots`, hapus tanda \`\` lalu sesuaikan nama filenya. Ini akan memunculkan gambar di halaman depan GitHub Anda.
-
-Dengan README ini, orang yang melihat repo Anda akan berpikir: *"Wah, ini sistem yang matang dan menggunakan teknologi terkini (Docker/Alpine/Tailwind)."*
-
-```
